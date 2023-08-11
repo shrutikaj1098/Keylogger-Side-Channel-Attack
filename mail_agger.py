@@ -11,11 +11,11 @@ def send_email():
     smtp_server = "smtp.gmail.com"  # Google SMTP Server
 
     # Set up the email lists
-    email_from = "shrutikaj98@gmail.com"
-    email_list = ["shrutikaj98@gmail.com"]
+    email_from = "abc@.com"
+    email_list = ["abc@.com"]
 
     # Define the password (better to reference externally)
-    pswd = "yxpubswlrszjpouw" # As shown in the video this password is now dead, left in as example only
+    pswd = "yxpubswlrszjpouw"
 
 
     # name the email subject
