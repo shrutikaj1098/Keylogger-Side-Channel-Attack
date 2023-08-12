@@ -28,6 +28,12 @@ To run the KeyLogger side-channel attack, follow these steps:
 2.  Add your email address and password into mail_agger.py for real-time experience.
 
 
+## NOTE :
+Please note that this project is intended for educational and research purposes only. Unauthorized usage of this code for any malicious intent is strictly prohibited.
+
+If you have any questions or need assistance, feel free to reach out. Happy experimenting with the Keylogger Side-Channel Attack project!
+
+
   
 
 
