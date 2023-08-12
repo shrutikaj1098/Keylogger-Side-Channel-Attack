@@ -19,6 +19,7 @@ The Repository contains two main files :
 - main.py - This includes the Pynput Library which takes into account the keystroke that we type in.
 - mail_agger.py - This controls the code for sending mail.
 - log.txt will capture all the keystrokes until you stop the program.
+- control.py will give you idea about 4 major functionality of pynput.
 
 ## Getting Started
 
